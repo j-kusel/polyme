@@ -1,0 +1,3 @@
+/Users/jordankusel/Documents/Max 7/max-devkit/source/projects/polyme_tilde/build/CMakeFiles/polyme_tilde.dir
+/Users/jordankusel/Documents/Max 7/max-devkit/source/projects/polyme_tilde/build/CMakeFiles/ALL_BUILD.dir
+/Users/jordankusel/Documents/Max 7/max-devkit/source/projects/polyme_tilde/build/CMakeFiles/ZERO_CHECK.dir
